@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Parcial2</string>
+
+    <!--       Pantalla Productos Activity      -->
+    <string name="txtTituloProductos">Productos</string>
+    <string name="btnTerminarCompra">Terminar Compra</string>
+
+    <!--       Pantalla Confirmar Compra Activity      -->
+    <string name="txtTituloCompra">Compra</string>
+    <string name="btnConfirmarCompra">Confirmar Compra</string>
+
+    <!--       Pantalla Compras Activity       -->
+    <string name="txtTituloRegistroCompras">Registro de compras</string>
+
+    <!--       Pantalla Registro Compra Activity        -->
+    <string name="txtTituloRegistro">Registro</string>
+
+    <!--       Pantalla Acerca De Activity        -->
+    <string name="txtDescripcion">Somos una empresa centrada en la venta de productos fármacos, especialmente para kits de primeros auxilios. Nuestra misión es brindar productos médicos de cálidad y que a la vez sean de precio accesible para el consumidor a fin de que posean a mano elementos básicos ante emergencias.</string>
+    <string name="txtContacto1">¿Tienes una duda? Escríbenos</string>
+    <string name="txtContacto2">farmacopea@correo.com</string>
+    <string name="txtContactoFacebook">Farmacia Farmacopea</string>
+    <string name="txtContacto3">. @farmacopea</string>
+</resources>

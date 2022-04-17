@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065911476308",
+    "firebase_url": "https://parcial-farmacia-default-rtdb.firebaseio.com",
+    "project_id": "parcial-farmacia",
+    "storage_bucket": "parcial-farmacia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065911476308:android:c8ab871786d6c3bc164dc1",
+        "android_client_info": {
+          "package_name": "edu.udb.parcial2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065911476308-7c5jpncg5k3pum6of1i6mi3r24ejhnrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQfPTJFvn9k_W42gsgWfFr1Vu_fiospPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065911476308-7c5jpncg5k3pum6of1i6mi3r24ejhnrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
